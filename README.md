@@ -4,7 +4,6 @@ Project 1 for CIS 454
 TEAM MEMBERS
 
 Eric Liu
-
 Chris McLaughlin
 
 Alex Sheeckutz
